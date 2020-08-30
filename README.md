@@ -4,3 +4,7 @@
 <ul>
   <li>有部分人不推薦使用OpenCore Configurator來配置OpenCore，，主要原因在於OpenCore目前文件樹結構變化太快，版本對不上非常容易造成錯誤。但目前OpenCore Configurator更新速度已經遠超出了我們的想像，幾乎OpenCore一推出更新測試版OpenCore Configurator就會立即做更新。所以目前已經不會有這個問題，請各位放心。</li>
 </ul>
+<p>開發者官方網站 https://mackie100projects.altervista.org/</p>
+<div id="gtx-trans" style="position: absolute; left: 650px; top: 32px;">
+  <div class="gtx-trans-icon">&nbsp;</div>
+</div>
